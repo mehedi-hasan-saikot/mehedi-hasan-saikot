@@ -2,7 +2,7 @@
 #### Data Science with Python
 ![Data Science with Python](https://media.licdn.com/dms/image/v2/D5603AQHO1lq0_4ccRw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719331669778?e=1733961600&v=beta&t=69CHhO1geoajcnd-3njU7VA3wtpX-p4tVG4MN8pn1UI)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun.
 
 Skills: Python / HTML / CSS
 
